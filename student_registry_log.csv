@@ -1,3 +1,4 @@
-﻿student_ID,timestamp_BKK,station,user_type,SBP,DBP,BP_status,T,T_status,SpO2,SpO2_status
-S25690002,2026-06-09 13:46:08,,,,,,,,,
-S25690002,2026-06-10 12:14:23,VS,staff,120,80,yellow,36.4,green,98,green
+﻿student_ID,timestamp_BKK,station,user_type,SBP,DBP,BP_status,T,T_status,SpO2,SpO2_status,PR,PR_status,BW,Ht,BMI,BMI_status
+S25690002,2026-06-09 13:46:08,,,,,,,,,,,,,,,
+S25690002,2026-06-10 12:14:23,VS,staff,120,80,yellow,36.4,green,98,green,,,,,,
+S25690002,2026-06-11 07:42:47,VS,student,120,80,yellow,36.2,green,96,green,89,green,67.6,170.0,23.4,green
