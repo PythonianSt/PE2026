@@ -57,3 +57,4 @@ b6920103214,2026-09-16 14:05:13,MentalHealth,student,,,,,,,,,,,,,,,,,,,,,0,,gree
 6920501520,2026-09-24 16:45:46,BloodTest,staff,,,,,,,,,,,,,,87.0,green,True,,,,complete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36.0,65.6,True
 6920503956,2026-09-24 16:53:15,BloodTest,staff,,,,,,,,,,,,,,78.0,green,True,,,,complete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46.0,63.5,True
 6920503981,2026-09-24 17:04:45,BloodTest,staff,,,,,,,,,,,,,,74.0,green,True,,,,complete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.0,116.4,True
+6920501520,2026-09-24 17:10:39,MentalHealth,student,,,,,,,,,,,,,,,,,,,,,2,,green,False,1,,green,6.0,yellow,2,green,3,yellow,2,green,1,green,1,green,2,green,False,False,False,False,green,yellow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,False,True,False,False,True,,text_based_communication; mobility_support,False,,,
